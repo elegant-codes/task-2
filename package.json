@@ -1,0 +1,16 @@
+{
+  "name": "task-2",
+  "version": "1.0.0",
+  "description": "fetch api and store in posts.json",
+  "main": "node server.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "Ayobami Ajakaye",
+  "license": "ISC"
+}
