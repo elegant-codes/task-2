@@ -1,4 +1,7 @@
-# Run script with: node server.js
+# To Run script:
 
-Slack Username: @ElegantCodes-TM-Storm
-Ajakaye Ayobami
+1. kindly install dependencies "npm install"
+2. run "node server.js" or "npm start"
+
+Slack Username: @ElegantCodes-TM-Storm,
+Name: Ajakaye Ayobami
