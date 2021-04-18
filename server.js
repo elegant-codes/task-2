@@ -12,10 +12,10 @@ const writePosts = (res) => {
 
 axios.get('http://jsonplaceholder.typicode.com/posts')
 .then( res => {
-  //check if  exist or not
+  //check if directory exist or not
   fs.access('./result', err => {
     if(!err) {
-      
+
       //writing result to file
       writePosts(res) 
     } else {
